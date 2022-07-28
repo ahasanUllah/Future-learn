@@ -15,5 +15,6 @@
 .min-height {
   min-height: 585px;
 }
-img-height {
+.max-width {
+  max-width: 528px;
 }
